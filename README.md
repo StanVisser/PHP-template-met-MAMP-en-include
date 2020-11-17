@@ -1,1 +1,0 @@
-# PHP-template-met-MAMP-en-include
